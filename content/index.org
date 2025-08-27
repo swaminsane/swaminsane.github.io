@@ -1,0 +1,6 @@
+#+title: my org site
+
+* Hellew
+
+my [[./config.org][config]]
+

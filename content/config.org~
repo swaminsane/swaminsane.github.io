@@ -1,0 +1,485 @@
+
+#+title: swaminsane's emacs config
+#+language: en
+#+creator: Swami Vivekanand
+
+* dashboard
+#+begin_src emacs-lisp
+      (use-package dashboard
+        :ensure t
+        :config
+        (dashboard-setup-startup-hook)
+        (setq dashboard-startup-banner "~/.emacs.d/img/swamiLogo1.jpg")
+        (setq dashboard-items '((recents   . 5)
+      			  (bookmarks . 5)
+      			  (projects  . 5)
+      			  (agenda    . 7)
+      			  (registers . 5)))
+        (setq dashboard-banner-logo-title "hi swamiii <3"))
+  (setq dashboard-week-agenda t)
+    #+end_src
+
+    #+RESULTS:
+    : all-the-icons
+
+* Terminal
+** Setting default shell to bash
+#+begin_src emacs-lisp
+  (defvar my-term-shell "/bin/bash")
+(defadvice ansi-term (before force-bash)
+  (interactive (list my-term-shell)))
+(ad-activate 'ansi-term)
+#+end_src
+* sudo edit
+#+begin_src emacs-lisp
+(use-package sudo-edit
+  :ensure t
+  :bind
+    ("s-e" . sudo-edit))
+#+end_src>
+* Org
+** basic configs
+#+begin_src emacs-lisp
+  (setq org-ellipsis " ")
+  (setq org-src-fontify-natively t)
+  (setq org-src-tab-acts-natively t)
+  (setq org-confirm-babel-evaluate nil)
+  (setq org-export-with-smart-quotes t)
+  (setq org-src-window-setup 'current-window)
+  (add-hook 'org-mode-hook 'org-indent-mode)
+#+end_src
+** Org bullets
+#+begin_src emacs-lisp
+  (use-package org-bullets
+    :ensure t
+    :config
+    (add-hook 'org-mode-hook(lambda () (org-bullets-mode))))
+#+end_src
+** faces for heading level
+#+begin_src emacs-lisp
+(dolist (face '((org-level-1 . 1.2)
+                  (org-level-2 . 1.1)
+                  (org-level-3 . 1.05)
+                  (org-level-4 . 1.0)
+                  (org-level-5 . 1.1)
+                  (org-level-6 . 1.1)
+                  (org-level-7 . 1.1)
+                  (org-level-8 . 1.1)))
+    (set-face-attribute (car face) nil :font "Monospace" :weight 'regular :height (cdr face)))
+#+end_src
+** Org code block activate by "<-s-tab"
+#+begin_src emacs-lisp
+(require 'org-tempo)
+#+end_src
+** Org roam
+*** setup
+#+begin_src emacs-lisp
+  (use-package org-roam
+    :ensure t
+    :init
+    (setq org-roam-v2-ack t)
+    :custom
+    (org-roam-directory "~/roamNotes")
+    (org-roam-completion-everywhere t)
+    (org-roam-capture-templates
+     '(("d" "default" plain
+        "%?"
+        :if-new (file+head "%<%Y%m%d%H%M%S>-${slug}.org" "#+title: ${title}\n#+date: %U\n")
+        :unnarrowed t)
+       ("n" "NEET" plain
+        "* Characteristics\n\n- Family: %?\n- Inspired by: \n\n* Reference:\n\n"
+        :if-new (file+head "%<%Y%m%d%H%M%S>-${slug}.org" "#+title: ${title}\n")
+        :unnarrowed t)
+       ("b" "book notes" plain (file "~/roamNotes/Templates/BookNoteTemplate.org")
+        :if-new (file+head "%<%Y%m%d%h%m%s>-${slug}.org" "#+title: ${title}\n")
+        :unnarrowed t)
+       ("p" "project" plain "* Goals\n\n%?\n\n* Tasks\n\n** TODO Add initial tasks\n\n* Dates\n\n"
+        :if-new (file+head "%<%Y%m%d%H%M%S>-${slug}.org" "#+title: ${title}\n#+category: ${title}\n#+filetags: Project")
+        :unnarrowed t)
+       ;; add templates here
+       
+       ))
+    :bind (("C-c n l" . org-roam-buffer-toggle)
+           ("C-c n f" . org-roam-node-find)
+           ("C-c n i" . org-roam-node-insert)
+           :map org-mode-map
+           ("C-M-i" . completion-at-point))
+    :config
+    (org-roam-setup))
+#+end_src
+*** dailies
+#+begin_src emacs-lisp
+   (use-package org-roam
+     :ensure t
+     :init
+     (setq org-roam-v2-ack t)
+     :custom
+     (org-roam-directory "~/roamNotes")
+     (org-roam-completion-everywhere t)
+     (org-roam-dailies-capture-templates
+       '(("d" "default" entry "* %<%I:%M %p>: %?"
+          :if-new (file+head "%<%Y-%m-%d>.org" "#+title: %<%Y-%m-%d>\n"))))
+     :bind (("C-c n l" . org-roam-buffer-toggle)
+            ("C-c n f" . org-roam-node-find)
+            ("C-c n i" . org-roam-node-insert)
+            :map org-mode-map
+            ("C-M-i" . completion-at-point)
+            :map org-roam-dailies-map
+            ("Y" . org-roam-dailies-capture-yesterday)
+            ("T" . org-roam-dailies-capture-tomorrow))
+     :bind-keymap
+     ("C-c n d" . org-roam-dailies-map)
+     :config
+     (require 'org-roam-dailies)
+     (org-roam-db-autosync-mode))
+#+end_src
+** fast node insertion
+#+begin_src emacs-lisp 
+(global-set-key (kbd "C-c n I") 'org-roam-node-insert-immediate)
+#+end_src
+** Org agenda
+
+* Basic settings
+** cursor posn
+#+begin_src emacs-lisp
+(setq line-number-mode t)
+(setq column-number-mode t)
+#+end_src
+** subword
+#+begin_src emacs-lisp
+  (global-subword-mode 1)
+#+end_src
+** clock
+#+begin_src emacs-lisp
+  (setq display-time-24hr-format t)
+  (display-time-mode 2)
+  (setq display-time-format "%H:%M - %d %B %Y")
+#+end_src
+** electric
+#+begin_src emacs-lisp
+  (setq electric-pair-pairs '(
+                           (?\{ . ?\})
+                           (?\( . ?\))
+                           (?\[ . ?\])
+                           (?\" . ?\")
+                           ))
+  (electric-pair-mode t)
+#+end_src
+** GUI toggles
+GNU Emacs front page, tool bar, menu bar, scroll bar
+#+begin_src emacs-lisp
+  (setq inhibit-startup-message t)
+  (tool-bar-mode -1)
+  (menu-bar-mode -1)
+  (scroll-bar-mode -1)
+#+end_src
+** setq commands
+#+begin_src emacs-lisp
+(setq ring-bell-function 'ignore)
+#+end_src
+** Key bindings
+#+begin_src emacs-lisp
+  (when window-system (global-prettify-symbols-mode t))
+#+end_src
+*** terminal
+#+begin_src emacs-lisp  
+  (global-set-key (kbd "<s-return>") 'ansi-term)
+#+end_src
+*** export org into file formats
+#+begin_src emacs-lisp
+(global-set-key (kbd "C-c p") 'org-export-dispatch)
+#+end_src
+** y-or-n
+#+begin_src emacs-lisp
+  (defalias 'yes-or-no-p 'y-or-n-p)
+#+end_src
+** Decors
+#+begin_src emacs-lisp
+(global-hl-line-mode t)
+#+end_src
+** Async
+#+begin_src emacs-lisp
+(use-package async
+  :ensure t
+  :init (dired-async-mode 1))
+#+end_src
+** UTF-8 encoding
+#+begin_src emacs-lisp
+(setq locale-coding-system 'utf-8)
+(set-terminal-coding-system 'utf-8)
+(set-keyboard-coding-system 'utf-8)
+(set-selection-coding-system 'utf-8)
+(prefer-coding-system 'utf-8)
+#+end_src
+** screenshots
+will configure later
+* convenient settings
+** beacon
+#+begin_src emacs-lisp
+  (use-package beacon
+  :ensure t
+  :config
+  (beacon-mode 2))
+#+end_src
+** rainbow
+#+begin_src emacs-lisp
+(use-package rainbow-mode
+  :ensure t
+  :init
+    (add-hook 'prog-mode-hook 'rainbow-mode))
+#+end_src
+
+* macros
+** yewt
+#+begin_src emacs-lisp
+(defalias 'yewt
+   (kmacro "M-x e w w <return> y e w t u . b e <return>"))
+#+end_src
+** yt
+#+begin_src emacs-lisp 
+(defalias 'yt
+   (kmacro "s-<return> y t <return>"))
+#+end_src
+* line numbering
+#+begin_src emacs-lisp
+(global-display-line-numbers-mode)
+#+end_src
+* buffers
+** kill all buffers
+#+begin_src emacs-lisp
+(defun close-all-buffers ()
+  (interactive)
+  (mapc 'kill-buffer (buffer-list)))
+(global-set-key (kbd "C-M-s-k") 'close-all-buffers)
+#+end_src
+** kill current buffer
+#+begin_src emacs-lisp
+(defun kill-current-buffer ()
+  "Kills the current buffer."
+  (interactive)
+  (kill-buffer (current-buffer)))
+(global-set-key (kbd "C-x k") 'kill-current-buffer)
+#+end_src
+** enable ibuffer
+#+begin_src emacs-lisp
+(global-set-key (kbd "C-x b") 'ibuffer)
+#+end_src
+** expert mode
+#+begin_src emacs-lisp
+(setq ibuffer-expert t)
+#+end_src
+* EXWM
+
+* Text manipulation
+** mark multiple
+#+begin_src emacs-lisp
+(use-package mark-multiple
+  :ensure t
+  :bind ("C-c q" . 'mark-next-like-this))
+#+end_src
+** copy line
+#+begin_src emacs-lisp
+  (defun daedreth/copy-whole-line ()
+  "Copies a line without regard for cursor position."
+  (interactive)
+  (save-excursion
+    (kill-new
+     (buffer-substring
+      (point-at-bol)
+      (point-at-eol)))))
+(global-set-key (kbd "C-c l c") 'daedreth/copy-whole-line)
+
+#+end_src
+** kill line
+#+begin_src emacs-lisp
+(global-set-key (kbd "C-c l k") 'kill-whole-line)
+#+end_src
+** copy word
+#+begin_src emacs-lisp
+(defun daedreth/copy-whole-word ()
+  (interactive)
+  (save-excursion
+    (forward-char 1)
+    (backward-word)
+    (kill-word 1)
+    (yank)))
+(global-set-key (kbd "C-c w c") 'daedreth/copy-whole-word)
+#+end_src
+** kill word
+#+begin_src emacs-lisp
+  (defun daedreth/kill-inner-word ()
+  "Kills the entire word your cursor is in. Equivalent to 'ciw' in vim."
+  (interactive)
+  (forward-char 1)
+  (backward-word)
+  (kill-word 1))
+(global-set-key (kbd "C-c w k") 'daedreth/kill-inner-word)
+#+end_src
+* modeline
+** spaceline
+#+begin_src emacs-lisp
+  (use-package spaceline
+    :ensure t
+    :config
+    (require 'spaceline-config)
+      (setq spaceline-buffer-encoding-abbrev-p nil)
+      (setq spaceline-line-column-p nil)
+      (setq spaceline-line-p nil)
+      (setq powerline-default-separator (quote arrow))
+      (spaceline-spacemacs-theme))
+#+end_src
+** diminish
+#+begin_src emacs-lisp
+ (use-package diminish
+  :ensure t
+  :init
+  (diminish 'which-key-mode)
+  (diminish 'beacon-mode)
+  (diminish 'rainbow-delimiters-mode)
+  (diminish 'rainbow-mode))
+#+end_src
+* swiper
+#+begin_src emacs-lisp
+(use-package swiper
+  :ensure t
+  :bind ("C-s" . 'swiper))
+#+end_src
+* dmenu
+#+begin_src emacs-lisp
+(use-package dmenu
+  :ensure t
+  :bind
+    ("s-SPC" . 'dmenu))
+#+end_src
+* yasnippet
+#+begin_src emacs-lisp
+(use-package yasnippet
+  :ensure t
+  :config
+    (use-package yasnippet-snippets
+      :ensure t)
+    (yas-reload-all))
+#+end_src
+* kill ring
+** popup
+#+begin_src emacs-lisp
+(use-package popup-kill-ring
+  :ensure t
+  :bind ("M-y" . popup-kill-ring))
+#+end_src
+** maxm entries
+#+begin_src emacs-lisp
+(setq kill-ring-max 100)
+#+end_src
+* window splitting function
+#+begin_src emacs-lisp
+(defun split-and-follow-horizontally ()
+  (interactive)
+  (split-window-below)
+  (balance-windows)
+  (other-window 1))
+(global-set-key (kbd "C-x 2") 'split-and-follow-horizontally)
+
+(defun split-and-follow-vertically ()
+  (interactive)
+  (split-window-right)
+  (balance-windows)
+  (other-window 1))
+(global-set-key (kbd "C-x 3") 'split-and-follow-vertically)
+#+end_src
+* auto completion
+#+begin_src emacs-lisp
+  (use-package company
+    :ensure t
+    :init
+    (add-hook 'after-init-hook 'global-company-mode))
+
+  (with-eval-after-load 'company
+  (define-key company-active-map (kbd "M-n") nil)
+  (define-key company-active-map (kbd "M-p") nil)
+  (define-key company-active-map (kbd "C-n") #'company-select-next)
+  (define-key company-active-map (kbd "C-p") #'company-select-previous)
+  (define-key company-active-map (kbd "SPC") #'company-abort))
+#+end_src
+* IDO
+** enable ido mode
+#+begin_src emacs-lisp
+  (setq ido-enable-flex-matching nil)
+  (setq ido-create-new-buffer 'always)
+  (setq ido-everywhere t)
+  (ido-mode 1)
+#+end_src
+** ido vertical
+#+begin_src emacs-lisp 
+  (use-package ido-vertical-mode
+    :ensure t
+    :init
+    (ido-vertical-mode 1))
+  (setq ido-vertical-define-keys 'C-n-and-C-p-only)
+#+end_src
+** SMEX
+#+begin_src emacs-lisp
+   (use-package smex
+      :ensure t
+      :init (smex-initialize)
+      :bind
+      ("M-x" . smex))
+#+end_src
+** switch buffer
+#+begin_src emacs-lisp
+(global-set-key (kbd "C-x C-b") 'ido-switch-buffer)
+#+end_src
+* which-key
+#+begin_src emacs-lisp
+(use-package which-key
+  :ensure t
+  :init
+  (which-key-mode))
+#+end_src
+* avy
+#+begin_src emacs-lisp
+  (use-package avy
+    :ensure t
+    :bind
+    ("M-s" . avy-goto-char))
+#+end_src
+* config edit/reload
+** edit
+#+begin_src emacs-lisp
+  (defun config-visit ()
+    (interactive)
+    (find-file "~/.emacs.d/config.org"))
+  (global-set-key (kbd "C-c e") 'config-visit)
+#+end_src
+** reload
+#+begin_src emacs-lisp
+  (defun config-reload ()
+    (interactive)
+    (org-babel-load-file (expand-file-name "~/.emacs.d/config.org")))
+  (global-set-key (kbd "C-c r") 'config-reload)
+#+end_src
+* switch window
+#+begin_src emacs-lisp
+  (use-package switch-window
+    :ensure t
+    :config
+    (setq switch-window-input-style 'minibuffer)
+    (setq switch-window-increae 4)
+    (setq switch-window-threshold 2)
+    (setq switch-window-shortcut-style 'qwerty)
+    (setq switch-window-qwerty-shortcuts
+  	'("a" "s" "d" "f" "j" "k" "l"))
+    :bind
+    ([remap other-window] . switch-window))
+#+end_src
+* symon
+#+begin_src emacs-lisp
+
+#+end_src
+* media
+** install
+* httpd
+#+begin_src emacs-lisp
+  (use-package simple-httpd
+    :ensure t)
+#+end_src
