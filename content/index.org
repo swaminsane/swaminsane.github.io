@@ -5,3 +5,7 @@
 my [[./config.org][config]]
 
  [[~/newpage.org][hola]]
+
+* Let's write smthing now, shall we
+
+Well not today
