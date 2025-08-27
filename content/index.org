@@ -4,3 +4,4 @@
 
 my [[./config.org][config]]
 
+ [[~/newpage.org][hola]]
