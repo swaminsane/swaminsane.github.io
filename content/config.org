@@ -2,7 +2,6 @@
 #+title: swaminsane's emacs config
 #+language: en
 #+creator: Swami Vivekanand
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-NAME.setup
 
 * dashboard
 #+begin_src emacs-lisp
