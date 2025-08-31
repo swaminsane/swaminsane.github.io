@@ -1,0 +1,131 @@
+* Notes
+[[https://youtu.be/NNnIGh9g6fA?si=iyQXAILtbjMrlNyk][lecture]]
+- Sometimes, whatever going on in your body affects what happens in your head
+- Sometimes, whatever occuring in your brain determine what happens in your brain
+- When youpay too much focus to categories, you can't differentiate(or underestimate)
+  two facts in the same categories
+  - example, we have differentiated visible light rays into VIBGYOR
+    but in reality, it's just a continua of wavelenghts, so if we are
+    encountered with two slightly different wavelenghts of let's say red
+    we would notbe easily able to differentiate between them.
+- Similarly, we overestimate two differnt facts in different boundries however close they are
+  - example, cutoff marks, one markis not that much but getting above
+    or below that boundry drastically decides your future
+- Whem we pay too much attention to boundaries, we can't see the bigger
+  picture as we are more focused in categories
+- Wellesley effect
+- Wee get stressed by the inevitability of our mortality 
+** Evolution
+- traits(in population) changes over time -> speciation
+- traits are heritable, they have variability, some of them are more adaotive than
+  others. Also, overtime random traits can appear(mutation)
+*** Natural selection
+Process that results in the adaptation of an organism to its environment by
+means of selectively reproducing changes in its genotype [[https://www.britannica.com/science/natural-selection][source]]
+*** Sexual selection
+Evolution of certain conspicuous physical
+traits—such as pronounced coloration, increased size, or striking adornments—in animals may
+grant the possessors of these traits greater success in obtaining mates. From the perspective of
+natural selection, such increases in mating opportunities outweigh the risks associated with the
+animal’s increased visibility in its environment. [[https://www.britannica.com/science/sexual-selection][source]]
+*** Individual selection
+Animals does not behave for the good of species.
+Animals behave for passing on as many genes as possible.
+Sometimes, a chicken is an egg's way of making another egg
+*** Kin selection
+Natural selection favours a trait due to its positive effects on the
+reproductive success of an organism's relatives, even when at a cost to the organism's own survival
+and reproduction. Kin selection can lead to the evolution of altruistic behaviour
+  - Animals can keep track of kinship
+  - Evolution selects for organisms cooperating with their relatives
+*** Rock Paper Scissore scenario (an evolutionary stalemate)
+Each organism has the potential to harm one of the
+others but doesn't do so because the overall impact of those actions would hurt the original
+organism.
+**** Evolutionarily stable strategy (ESS)
+A strategy (or set of strategies) that is impermeable when
+adopted by a population in adaptation to a specific environment, that is to say it cannot be displaced
+by an alternative strategy (or set of strategies) which may be novel or initially rare.
+*** Cooperation
+Behaviour whereby an organism acts in a manner
+that temporarily reduces its fitness while increasing another organism's fitness, with the expectation
+that the other organism will act in a similar manner at a later time. The concept was initially
+developed by Robert Trivers to explain the evolution of cooperation as instances of mutually
+altruistic acts. The concept is close to the strategy of "tit for tat" used in game theory.
+  - We are more attuned to picking up cheating than a random act of kindness.
+  - Until you're not putting more into i than what you're getting
+  - Nash equilibrium
+*** Game Theory
+Branch of applied mathematics that provides tools for analyzing situations in which
+parties, called players, make decisions that are interdependent. This interdependence causes each
+player to consider the other player’s possible decisions, or strategies, in formulating strategy. A
+solution to a game describes the optimal decisions of the players, who may have similar, opposed,
+or mixed interests, and the outcomes that may result from these decisions.
+
+Studies have shown that brain centers responsible for pleasure light up during times of stabbing the
+other guy in the back and during times of cooperation. There is a pronounced gender difference as
+to when these areas are activated. 
+**** Tit for Toe(TfT)
+- Best Strategy
+- Drives all the others into extinction
+- Vulnerability of signal error
+| Rounds Rounds | 1 1 | 2 | 3 | 4 | 5 | ... |
+|---------+----+---+---+---+---+-----|
+| A       | o  | o | x | o | x | ... |
+| B       | o  | o | o | x | o | ... |
+|---------+----+---+---+---+---+-----|
+If A cooperated in the 3rd roundround but due to somesignal error, B percieved
+it as cheating. In the 4th round, acc to TfT, B cheats and A who has been
+cooperating for all these rounds gets cheated and next round A cheats. B sees
+he's been cheated twice so h cheates back and we get ourselves into a seesaw
+pattern for the rest of time.
+**** Forgiving Tit for Tat (fTfT)
+- If we go in the seesaw loop of TfT for 5 rounds, we will cooperateand it
+  will get things back on track
+- Vulnerability of getting exploited
+**** TfT->fTfT
+- We shift from TfT to fTfT after developing trust
+**** Pavlov
+- If I get rewarded, i'll do the same thing again
+- If I lose, I'll switch to otherstrategy for the next round
+- It exploits
+**** Example in nature
+Vampire bats are up next. The mothers suck the blood out of other animals, such as cows, and then
+bring the blood back for the kids. They are social animals and will feed others' offspring as well.
+Research has been done in which mother vampire bats were captured and had their blood sacs filled
+with air so that it would appear to the other bats that they had a lot of good blood to share. When
+they returned to the nest and did not share, others took note and were then didn't help the
+research bat's offspring the next time they returned with blood food. 
+
+Stickleback fish also engage in tit for tat strategies. As does the Black Hamlet Fish, which is also
+capable of changing its sex. Tit for tat strategies are used by this fish when the other mate doesn't
+carry his or her load by being the female as often as the original fish (higher costs).
+**** Limitation
+Reciprocal social altruism also includes consideration for other domains of behavior, so an animal
+may be worthless in one area but valuable in another and studies have shown that social groups
+will accept and value this approach. He mentions examples of naked mole rats and lions.
+*** A behavioral analysis based on skull size
+| Behavior             | Big Male, Small Female             | Small Male, Small Female          |
+|                      | (Tournament species)               | (Pair bondng species)             |
+|----------------------+------------------------------------+-----------------------------------|
+| Aggression           | Tournament species are more        | Pair-bonding species are less     |
+|                      | aggressive.                        | aggressive.                       |
+|----------------------+------------------------------------+-----------------------------------|
+| Variability          | TS has a high level of variability | Relatively similar levels, 1-2 on |
+| Reproductive Success | with top few having most success   | average.                          |
+|                      | 95% from 5%.                       |                                   |
+|----------------------+------------------------------------+-----------------------------------|
+| Female choice        | Good genes for offspring - big,    | Resource and parental skills.     |
+|                      | strong. Thats all she's getting    |                                   |
+|----------------------+------------------------------------+-----------------------------------|
+| Lifespan             | Lower-more fighting, aggression    | Longer, similar to females        |
+|----------------------+------------------------------------+-----------------------------------|
+| Parental behavior    | Virually none                      | A lot                             |
+|----------------------+------------------------------------+-----------------------------------|
+| Twins                | Rare                               | More common                       |
+| Ababdonment          | Rare, malw won't care for          | More common, males will take      |
+|                      | offspring                          | for the offspring                 |
+|----------------------+------------------------------------+-----------------------------------|
+| Examples             | Baboons, chickens, peacocks        | Marmosets, tamarins               |
+|----------------------+------------------------------------+-----------------------------------|
+Humans are right in the middle.
