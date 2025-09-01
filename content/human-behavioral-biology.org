@@ -14,39 +14,40 @@
 - Whem we pay too much attention to boundaries, we can't see the bigger
   picture as we are more focused in categories
 - Wellesley effect
-- Wee get stressed by the inevitability of our mortality 
-** Evolution
+- Wee get stressed by the inevitability of our mortality
+** Evolutionary biology
+*** Behavioral Evolution
 - traits(in population) changes over time -> speciation
 - traits are heritable, they have variability, some of them are more adaotive than
   others. Also, overtime random traits can appear(mutation)
-*** Natural selection
+**** Natural selection
 Process that results in the adaptation of an organism to its environment by
 means of selectively reproducing changes in its genotype [[https://www.britannica.com/science/natural-selection][source]]
-*** Sexual selection
+**** Sexual selection
 Evolution of certain conspicuous physical
 traits—such as pronounced coloration, increased size, or striking adornments—in animals may
 grant the possessors of these traits greater success in obtaining mates. From the perspective of
 natural selection, such increases in mating opportunities outweigh the risks associated with the
 animal’s increased visibility in its environment. [[https://www.britannica.com/science/sexual-selection][source]]
-*** Individual selection
+**** Individual selection
 Animals does not behave for the good of species.
 Animals behave for passing on as many genes as possible.
 Sometimes, a chicken is an egg's way of making another egg
-*** Kin selection
+**** Kin selection
 Natural selection favours a trait due to its positive effects on the
 reproductive success of an organism's relatives, even when at a cost to the organism's own survival
 and reproduction. Kin selection can lead to the evolution of altruistic behaviour
   - Animals can keep track of kinship
   - Evolution selects for organisms cooperating with their relatives
-*** Rock Paper Scissore scenario (an evolutionary stalemate)
+**** Rock Paper Scissore scenario (an evolutionary stalemate)
 Each organism has the potential to harm one of the
 others but doesn't do so because the overall impact of those actions would hurt the original
 organism.
-**** Evolutionarily stable strategy (ESS)
+***** Evolutionarily stable strategy (ESS)
 A strategy (or set of strategies) that is impermeable when
 adopted by a population in adaptation to a specific environment, that is to say it cannot be displaced
 by an alternative strategy (or set of strategies) which may be novel or initially rare.
-*** Cooperation
+**** Cooperation
 Behaviour whereby an organism acts in a manner
 that temporarily reduces its fitness while increasing another organism's fitness, with the expectation
 that the other organism will act in a similar manner at a later time. The concept was initially
@@ -55,7 +56,7 @@ altruistic acts. The concept is close to the strategy of "tit for tat" used in g
   - We are more attuned to picking up cheating than a random act of kindness.
   - Until you're not putting more into i than what you're getting
   - Nash equilibrium
-*** Game Theory
+**** Game Theory
 Branch of applied mathematics that provides tools for analyzing situations in which
 parties, called players, make decisions that are interdependent. This interdependence causes each
 player to consider the other player’s possible decisions, or strategies, in formulating strategy. A
@@ -65,7 +66,7 @@ or mixed interests, and the outcomes that may result from these decisions.
 Studies have shown that brain centers responsible for pleasure light up during times of stabbing the
 other guy in the back and during times of cooperation. There is a pronounced gender difference as
 to when these areas are activated. 
-**** Tit for Toe(TfT)
+***** Tit for Toe(TfT)
 - Best Strategy
 - Drives all the others into extinction
 - Vulnerability of signal error
@@ -79,17 +80,17 @@ it as cheating. In the 4th round, acc to TfT, B cheats and A who has been
 cooperating for all these rounds gets cheated and next round A cheats. B sees
 he's been cheated twice so h cheates back and we get ourselves into a seesaw
 pattern for the rest of time.
-**** Forgiving Tit for Tat (fTfT)
+***** Forgiving Tit for Tat (fTfT)
 - If we go in the seesaw loop of TfT for 5 rounds, we will cooperateand it
   will get things back on track
 - Vulnerability of getting exploited
-**** TfT->fTfT
+***** TfT->fTfT
 - We shift from TfT to fTfT after developing trust
-**** Pavlov
+***** Pavlov
 - If I get rewarded, i'll do the same thing again
 - If I lose, I'll switch to otherstrategy for the next round
 - It exploits
-**** Example in nature
+***** Example in nature
 Vampire bats are up next. The mothers suck the blood out of other animals, such as cows, and then
 bring the blood back for the kids. They are social animals and will feed others' offspring as well.
 Research has been done in which mother vampire bats were captured and had their blood sacs filled
@@ -100,11 +101,11 @@ research bat's offspring the next time they returned with blood food.
 Stickleback fish also engage in tit for tat strategies. As does the Black Hamlet Fish, which is also
 capable of changing its sex. Tit for tat strategies are used by this fish when the other mate doesn't
 carry his or her load by being the female as often as the original fish (higher costs).
-**** Limitation
+***** Limitation
 Reciprocal social altruism also includes consideration for other domains of behavior, so an animal
 may be worthless in one area but valuable in another and studies have shown that social groups
 will accept and value this approach. He mentions examples of naked mole rats and lions.
-*** A behavioral analysis based on skull size
+**** A behavioral analysis based on skull size
 | Behavior             | Big Male, Small Female             | Small Male, Small Female          |
 |                      | (Tournament species)               | (Pair bondng species)             |
 |----------------------+------------------------------------+-----------------------------------|
@@ -123,9 +124,168 @@ will accept and value this approach. He mentions examples of naked mole rats and
 | Parental behavior    | Virually none                      | A lot                             |
 |----------------------+------------------------------------+-----------------------------------|
 | Twins                | Rare                               | More common                       |
-| Ababdonment          | Rare, malw won't care for          | More common, males will take      |
+|----------------------+------------------------------------+-----------------------------------|
+| Ababdonment          | Rare, male won't care for          | More common, males will take      |
 |                      | offspring                          | for the offspring                 |
 |----------------------+------------------------------------+-----------------------------------|
 | Examples             | Baboons, chickens, peacocks        | Marmosets, tamarins               |
 |----------------------+------------------------------------+-----------------------------------|
 Humans are right in the middle.
+*** Behavioral Evolution II
+Man is not the only species that kills for non-predatory reasons.
+
+Infanticide is found within groups of langur monkeys, lions, vervet monkeys, mountain gorillas and
+other species as well. Initial attempts were made to dismiss the events as abnormal, with a variety of
+reasons to set aside the behavior as psychopathological but not typical of the species.
+
+But then biologists began noticing patterns. It tends to be adult males doing the killing. The actions are not random; the
+infants are the offspring of other males. It's a competitive strategy that reduces the other guy's
+reproductive success while improving the killer's since the female no longer has anything to mother
+and can now move back into the birthing cycle and have his offspring.
+
+There is a formula for this - competitive infanticide occurs when the time between births by the
+mother is shorter than the average reign for the top male. So the competitive infanticide is there to
+ensure that he doesn't miss out on the chance to breed with the female when she's busy rearing her
+offspring instead of mating with him. 
+
+The most striking example of how this demonstrates that animals do not operate for the good of the
+group is that of mountain gorillas. Their numbers are dwindling with approximately 600-700 out
+there in the wild but they continue to kill their own despite it being against their best interests.
+
+It is, however, highly unlikely that Ishmael would engage in this foolish behavior...
+
+However, when the male replaces a relative, the infanticide is checked by the element of kinship
+selection and the evolved behavior of supporting, not destroying, the success of relatives. 
+
+Females have developed responses to the infanticide. They may spontaneously abort the fetus
+(rodents), miscarry after being harassed by the new male (wild horses) or even go into pseudo-estrus
+in which they give off all the signs and even mate with the new guy but without actually giving up the
+original fetus. 
+
+Females will also physically defend their offspring, with the most menacing being the maternal
+grandmother who has past her prime but still has a genetic stake in the matter. The mother will
+defend, but not to the point of serious injury. As she ages, her defense will be more vigorous. (Of
+course these are general patterns and an aggressive male is not guaranteed that things will turn out
+well for him.)
+
+Kidnapping among savannah baboons is more likely to be seen when the aggressive, high ranking
+male has been in the troop for a while than when he hasn't since some other baboon's offspring
+doesn't make a compelling shield. 
+
+**** Dominance hierarchies
+In essence, having males is
+a "risky strategy" in a tournament species because 5% of the males get to produce 95% of the future
+offspring, so the odds are that a male will not get to mate well. Females tend to mate regardless, so
+having a female will tend to carry the genes onward at a higher rate. Thus higher ranking females
+show a greater tendency to give birth to males while lower ranking females have a greater tendency
+to give birth to females. This is not a choice, but rather reflects some gradual adaptation that's
+resulted from the males of top ranking females getting to pass on their genes while the lower
+ranking females' male offspring did not but their daughters did. However, dominance among the
+males is not based on nepotism, it's based on strength and power, so a male can ascend if he's able
+to. And the male offspring of a top ranking female may be entirely unsuccessful. My sense is that
+there isn't a lot to be gained from this section as it's speculative and, of course, the females aren't
+really choosing to have a male or a female baby; there's simply some tendency that has enabled the
+offspring of top ranking male-female combinations to be more likely to produce a male. This notion
+leads into an upcoming topic, which is intersexual competition.
+
+The bias toward more females during times of ecological duress connects directly to the metabolic
+demands of males being higher than the metabolic demands of females. The tougher it is on the
+mother, the greater the odds of the fetus not surviving. 
+**** Intersexual competition
+Intersexual competition reflects differing interests in the future reproductive success of the female.
+In tournament species in which the males migrate, they care little about what happens to the female
+once they are gone and so aggressive elements are sometimes found within their sperm. These
+elements help increase the odds of generating a successful pregnancy and set the fetus up to be
+more metabolically demanding. Females, on the other hand, have evolved ways to neutralize these
+elements as they are costly and dangerous. 
+
+Imprinted genes are genes that have different manifestations depending on which parent they came
+from. In classic Mendelian genetics, a combination of Aa and AA treats the A's as similar, but with
+imprinted genes it actually matters whether the A came from the father or mother because the gene
+will behave differently. Through the process of methylization, the gene's behavior will be altered
+based on its origin. If you get it from one parent it will be active, if from the other it will be silenced.
+When you look at imprinted genes that are active if they come from the father, they all tend to be
+genes that promote fetal growth. If from the mother, they tend to slow down fetal growth. For
+example, one of the genes codes for insulin like growth factor. Not hard to see how that fits in. The
+female's version makes for a less responsive receptor for the insulin like growth factor. Another
+example is choriocarcinoma, which is a cancer of the uterus that can happen if the male's sperm has
+aggressive growth factors and the female has no counterbalancing genes; this leads to unchecked
+growth which is bad. Pregnancy hyperglycemia is another example as the fetus is trying to get lots of
+sugar from mom but mom may have an active gene that checks that (hypoglycemia will occur if she
+does not). These types of imprinted genes are not typically seen in pair bonding species. Humans are
+again right in the middle. 
+
+Next up is the fun topic of...sperm competition? Yes, research into fruit flies shows that another
+strategy that's out there is the sperm carrying a toxin that kills off other males' sperm. Sadly for the
+females, the toxins are also potentially toxic to them. Thus we see females have evolved ways to
+counteract this. 
+
+Exogamy impacts the behavior of animals as well. There is variation in who leaves (females in chimps
+and gorillas, males in baboon troops) and that influences what happens within the group. For
+example, chimp groups can be highly aggressive and even genocidal toward other groups
+("outsiders" or "them") because the males are all related by kinship ties and thus get along much
+better than they would if there was male exogamy.
+
+**** Group selection
+
+One of the scariest things in the world is when all the males in a given group start getting along
+really well with each other. Aggression toward the others often follows. 
+
+This relates to military techniques that aim to create a sense of kinship among the troops. This makes
+them a band of brothers that will cooperate with each other, though it can have divisive effects as
+well, such as was seen in the Vietnam War, because the group may agree to disagree with orders and
+commands from above, the hierarchical other.
+
+- Founder Effect
+  A bio-geographic (or other) event occurs that separates out a subset from a larger group. This
+  smaller subset soon becomes more inbred than the larger whole, simply as a by-product of being a
+  smaller group. This translates into having a higher degree of relatedness, which introduces the
+  whole business of kin selection. Because these guys are more closely related, they will work together
+  more as a group and will end up outcompeting the original group members when they are reunited.
+  
+Another scenario is demonstrated through the example of two chickens, one that's highly aggressive
+and one that's more laid back. When competing one on one, the more aggressive chicken will lay
+more eggs, but there's the drawback in which a group of aggressive chickens will harass each other
+and thus impair their own breeding while the calmer group will lay more eggs because as a group
+they cause less grief for each other.
+*** Criticisms
+The first criticism rests on the notion of heritability and the associated notion that the behaviors are
+genetically received, inevitable and produced. The next notion is that of adaptiveness, which
+suggests that all behaviors have evolved because they are adaptive (beneficial). The third principle is
+that the changes are gradual. 
+
+The molecular view challenges the notion of heritability. While the evolutionary biologist argues that
+the trait is commonly seen among groups and has emerged because it is inherited and beneficial, the
+molecular folks say show me the gene, establish the direct connection.
+
+Adaptiveness is attacked as the adaptationist fallacy. Everything is reduced down to a just so story in
+which the best story wins. He notes that to honestly assess it, you must keep the context in mind.
+Squid aren't so great as swimmers compared to fish, but they kick butt compared to mollusks, which
+is where they started. Nevertheless we have the concept of spandrels (courtesy of Stephen Jay Gould
+and Richard Lewontin), suggesting that some evolved elements just came along for the ride. 
+
+These spandrels would be decorated, but for all that they weren't put there for adaptive purposes.
+They are simply inevitable when arches are brought together. As Francois Jacob put it "Evolution is a
+tinkerer." 
+
+The theory is heavily saturated with elements of competition and outcompeting the others at every
+level, with the winner being, by definition, the best and most worthy and most fit. All of this fits in
+with rather nicely with the world view and SES of the people advancing these arguments, each of
+whom was a Southern white male. 
+
+On the other hand, competition may not be the most important element. Russian biologists viewed
+the issue from a collective viewpoint and had a greater respect for the impact of external elements,
+such as the environment. 
+
+Gould and others suggested that gradualism was possibly a flawed concept. Instead they suggested
+that punctuated equilibrium makes more sense. In this scenario, most of the time nothing is
+happening and there isn't really much impact from all this competition stuff. Then a genetic change
+of some sort occurs and a massive change follows and then things return back to normal. 
+**** Politics
+Politics comes into play as well, with issues ranging from male domination, sexual aggression, social
+stratification and more and the question of the extent to which these are a reflection of natural
+order. 
+
+On the other hand, the gradualists were Northeastern Marxists. And the world they want it to be fits
+smoothly into the notion of dialectical materialism. 
+
