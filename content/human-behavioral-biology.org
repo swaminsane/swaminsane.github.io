@@ -105,32 +105,6 @@ carry his or her load by being the female as often as the original fish (higher 
 Reciprocal social altruism also includes consideration for other domains of behavior, so an animal
 may be worthless in one area but valuable in another and studies have shown that social groups
 will accept and value this approach. He mentions examples of naked mole rats and lions.
-**** A behavioral analysis based on skull size
-| Behavior             | Big Male, Small Female             | Small Male, Small Female          |
-|                      | (Tournament species)               | (Pair bondng species)             |
-|----------------------+------------------------------------+-----------------------------------|
-| Aggression           | Tournament species are more        | Pair-bonding species are less     |
-|                      | aggressive.                        | aggressive.                       |
-|----------------------+------------------------------------+-----------------------------------|
-| Variability          | TS has a high level of variability | Relatively similar levels, 1-2 on |
-| Reproductive Success | with top few having most success   | average.                          |
-|                      | 95% from 5%.                       |                                   |
-|----------------------+------------------------------------+-----------------------------------|
-| Female choice        | Good genes for offspring - big,    | Resource and parental skills.     |
-|                      | strong. Thats all she's getting    |                                   |
-|----------------------+------------------------------------+-----------------------------------|
-| Lifespan             | Lower-more fighting, aggression    | Longer, similar to females        |
-|----------------------+------------------------------------+-----------------------------------|
-| Parental behavior    | Virually none                      | A lot                             |
-|----------------------+------------------------------------+-----------------------------------|
-| Twins                | Rare                               | More common                       |
-|----------------------+------------------------------------+-----------------------------------|
-| Ababdonment          | Rare, male won't care for          | More common, males will take      |
-|                      | offspring                          | for the offspring                 |
-|----------------------+------------------------------------+-----------------------------------|
-| Examples             | Baboons, chickens, peacocks        | Marmosets, tamarins               |
-|----------------------+------------------------------------+-----------------------------------|
-Humans are right in the middle.
 *** Behavioral Evolution II
 Man is not the only species that kills for non-predatory reasons.
 
@@ -289,3 +263,266 @@ order.
 On the other hand, the gradualists were Northeastern Marxists. And the world they want it to be fits
 smoothly into the notion of dialectical materialism. 
 
+** Molecular Genetics
+*** I
+**** Proteins
+Genes as molecules, genes as information, genes as DNA. Here we have proteins emerging for their
+importance in the structure of cells and cellular activity. Proteins hold the shapes of cells together,
+they form messengers and hormones, they are the enzymes that do all kinds of important stuff;
+proteins are the workhorses.
+
+So what codes for proteins? This is where genes come in. Genes specify (code for) proteins. Proteins
+are built from amino acids, of which there are approximately 20 that commonly occur. Each one has
+to be coded for with a different DNA sequence, a different DNA sequence of 3 letters (3 nucleotides).
+He notes that in the process DNA first specifies a code string of RNA which then specifies the protein
+construction (amino acid string). Thus if you know the DNA then you will know the RNA which in turn
+gives you a sense of the amino acids which will form the protein and knowing that informs you of the
+shape of the protein (different amino acids vary in their attraction toward water and these levels
+influence the ultimate shape) which clues you in on the function of the protein. That is the critical link
+from the DNA to the function and the notion of a behavior being genetically controlled. 
+
+Proteins fit into other molecules like a LOCK and KEY! This is the whole world of hormones and
+neurotransmitters fitting into their particular receptors. 
+
+He notes that prion diseases are an exception to the hydrophobic/hydrophilic structure of proteins. 
+
+Enzymes are important because they catalyze reactions. That is they cause reactions to occur which
+on their own would be unlikely to happen. A simple way of looking at this is to think of it as bringing
+things together or separating them, as appropriate. Virtually every enzyme is a protein. This affects
+cellular activity by influencing the opening and closing of ion channels. Ion channels connect directly
+with the cell's decision to act or not. 
+**** Central Dogma
+Francis Crick is credited with establishing a central dogma of genetics - DNA codes for RNA which
+codes for proteins. Sapolsky focuses the listener on a subtle element of this dogma, which is that DNA
+is ultimately in charge, sitting around and deciding what will happen and when, and then releasing
+the instructions that become the RNA to protein chain. Surprisingly, DNA isn't always in charge.
+Viruses are mentioned as an example. Viruses are basically snippets of DNA that get into a living
+organism and hijack its DNA, taking over the plane and directing where it goes, making it function for
+the virus's desire. In the 1970's viruses made of RNA were discovered. The pathway is facilitated by
+enzymes which convert the RNA into DNA and start up the whole parasitic process. Accordingly, these
+are called retroviruses because they are reverting from RNA back to DNA. 
+**** Mutations
+Mutations are important because they can alter the orders from DNA. A micromutation occurs when
+one letter within the DNA sequence is accidentally miscopied. Pairs of triplets (amino acids) are coded
+for by the DNA. This is a connection of three base pairs. So we can have a change in one of these
+letters which may impact the ultimate shape and function of the amino acid that is created.
+
+There are three basic types of alterations. First is a point mutation, which consists of one of the
+letters being changed into a different letter. This may not matter because of the limited number of
+different amino acid combinations. There are four different letters (nucleotides) and three letters
+needed, so we get 4x4x4 or 64 different potential combinations, but there are only about 20 amino
+acid shapes, so there's overlap in that shape 22 GAU may be similar to shape 43 GTU, so the change
+from A to T may not significantly change the shape (please note that this example is an example for
+understanding and is not based on a specific shape 22 or 43). 
+
+For example: "I cdnuolt blveiee taht I cluod aulaclty uesdnatnrd waht I was rdanieg. The phaonmneal
+pweor of the hmuan mnid. Aoccdrnig to a rscheearch at Cmabrigde Uinervtisy, it deosn't mttaer in
+waht oredr the ltteers in a wrod are, the olny iprmoatnt tihng is taht the frist and lsat ltteer be in the
+rghit pclae. The rset can be a taotl mses and you can sitll raed it wouthit a porbelm. Tihs is bcuseae
+the huamn mnid deos not raed ervey lteter by istlef, but the wrod as a wlohe. Amzanig, huh ? Yaeh,
+and I awlyas thought slpeling was ipmorantt ! Tahts so cool !
+
+Changes in the 1st or 3rd nucleotide (letter) may also be of minimal significance as the amino acids
+have similar shapes so a minor letter change may only result in a minor shape change that produce
+a minor change in results but does not dramatically change the functioning of the amino acid. 
+
+I will now do this.
+I will mow do this. 
+I will not do this.
+
+However, there can also be a point deletion. This consists of a nucleotide being deleted. In classical
+genetics a deletion mutation has dramatic effects and is a big deal.
+
+I will nod ot his.
+
+The third type is insertion mutation.
+
+I will now ud othi.
+
+Deletion and insertion mutations tend to have big consequences. 
+***** Phenylketonuria
+The takeaway is that these mutations change how well the protein does its job. For example, there's
+a chemical in the body called phenylalanine which has its uses but if it builds up to a high level it
+becomes toxic to brain cells and results in mental retardation, brain damage and seizures. There's an
+enzyme (made of proteins) that converts it into something safer. Now the scenario is that you have a
+mutation in the gene that codes for that enzyme. As a result of a micromutation, the enzyme no
+longer does its job. The phenylalanine then builds up in the body and creates the disastrous effects
+noted above, laying waste to one's nervous system. This is Phenylketonuria (PKU) disorder. This is
+not a minor change; it will rapidly destroy the person's nervous system. 
+***** Androgen Insensitivity Syndrome
+Another example involves a hormone being changed by a mutation. Imagine a daughter that is not
+hitting puberty when her other classmates do. At 10-11 some are experiencing changes but not her.
+She continues to age and does not reach puberty. Since she's falling behind you take her in to see the
+doctor. Eventually the doctor is going to sit you down and explain that the reason why your daughter
+has not started menstruating is that you don't have a daughter; you have a son. This kid suffers from
+TFM, testicular feminization syndrome (also known as Androgen Insensitivity Syndrome). At the
+chromosome level, they are male (XY not XX). They have testes, but they never dropped or developed
+normally outside the body. The testes make testosterone. Nevertheless, you get a female phenotype
+with female external genitalia. This results from a mutation that changes the shape of the androgen
+(testosterone) receptor, making it insensitive to the androgen's attempted effects. 
+***** sex change
+Another example relates to a disease found among two populations - one up in the mountains in the
+Dominican Republic and the other population in the mountains in Papa New Guinea. In this disease
+there's a problem with the enzymes that make testosterone. So what happens is that there's very
+little testosterone having any influence - the levels are too low to take effect. So the kid is
+phenotypically female with female external genitalia. Next when puberty hits the brain tells the body
+to start producing testosterone. The body does so and while the levels don't go up as much as they
+would in a normal male because of the enzyme, they go up enough. And the poor kid switches sex. 
+***** Benzodiazepines
+He mentions benzodiazepines (synthetic) are up next. He mentions that differences in the amino
+acids will subtly impact how these guys fit into their receptors which will in turn impact the
+individual's level of anxiety. This example points to the variance among people that minor
+differences in genes can create.
+
+He transitions into brief comments about rats that were bred to be high or low anxiety and then
+notes that this moves us away from "them and their disease." This foreshadows the lecture on
+individual differences, a lecture that is surely among the best psychology lectures ever as Sapolsky
+brings a startlingly, empathic and eye opening perspective to the issue of individual differences and
+makes it crystal clear why it isn't "them and their disease." (Watching that lecture and his discussion
+on depression will place you ahead of 95% of the population in understanding individual differences
+and psychological problems. Sapolsky simply rocks.)
+***** FoxP2
+Foxp2 has something to do with language. The discovery began with a family that displayed a
+mutation in the Foxp2 gene and had a language anomaly of some sort (motoric or symbolic - that
+was the debate). This is potentially significant because versions of Foxp2 occur throughout the
+animal kingdom. Birds, rats, apes, people...and in all these places it has something to do with
+communication. Curiously the differences are small until you get to humans and there we see a
+whole bunch of changes when compared to other members of the animal kingdom. So the major
+difference in language capability may be the result of continual evolutionary change in the base
+pairs of the Foxp2 gene. 
+
+An experiment was done a few years ago with mice in which they knocked out the mouse version of
+Foxp2 and substituted the human version. The mice began to demonstrate more complex language
+expressions. 
+**** Positive and Negative Selection
+Ok, so there are 64 possible combinations that code for 20 amino acids. Say you look at a mutation
+and 40 of the combinations have no impact. In this case we have a standard mutation rate with
+2/3rds of the changes not impacting the formation of the amino acid and 1/3rd changing it. Contrast
+this with a scenario in which you examine a mutation and find that 99% of the differences in the base
+pairs will impact the amino acid's formation. This is an echo of a very strong advantage or adaptation
+- there would have been positive selection for this trait. It's not general variation or just hanging
+around; it's been picked. 
+
+Alternatively if 99% of the mutations have no immediate impact this is a stabilizing gene in which you
+do not want to mess with its function (it's strongly set against any kind of change, which indicates
+that change is really bad in this area).
+
+The changes in Foxp2 are positive changes.
+
+Ok, so here's the idea. If 99% of the changes impact the amino acid then we have positive selection.
+If 99% don't, then we have negative selection. It works this way because the positive elements can
+build on each other and changes in it can be beneficial while impairments aren't devastating (for
+example, do any of us write like Marcel Proust? No, but we can still express ourselves poetically).
+However, when 99% of mutations have no impact, it's a highly stabilized gene. For example, do any
+of us have no lungs?
+**** Sharing genes
+Next up is the whole sibling chimpanzee percentage topic. You share 50% of your genes with a
+sibling, but you share 98% of your genes with chimpanzee. What? This is about the level we look at.
+For example, chimps and humans have noses, so that's a commonality when compared to a tree,
+which only has a nose when it's in "The Lord of the Rings" or wandering around Stanford. However,
+humans can have button noses, aristocratic noses, etc. which is a DNA difference but at a much more
+specific level. 
+**** Punctuated equilibrium
+The carryover to the political element is that if every bit of the advantage or disadvantage that comes
+from a mutation matters then it follows that every bit of competition (competitive advantage) also
+matters. 
+
+In the 1980's Stephen J. Gould, a paleontologist, and Niles Eldredge, also a paleontologist, came up
+with a very different model. They challenged the gradualist model, arguing that instead there are
+long periods of stasis where nothing happens and that the little changes don't matter much. Instead
+when change happens it's rapid and dramatic. This is known as punctuated equilibrium. Gould was a
+Marxist, though, so it's worth noting that this model fits in with the dialectic process (thesis -
+equilibrium; antithesis - mutation; synthesis - new beings). Analyzing the fossil records shows long
+periods where nothing seems to change and then suddenly there's a big change followed by long
+periods where nothing's happening. This implies that the vast majority of the small changes aren't
+that important and that the competition framework is incorrect and serves mostly to create an
+illusion that nature has a massive hierarchy that's determined by competition when in reality nature
+permits most varieties to do just fine, thank you. Continuing with the political theme, it's then noted
+that it's mighty convenient that the competitive model fits in nicely with the environment that its
+advocates come from and have benefited from. 
+
+The first counter is that these are very different disciplines - what counts as rapid for a
+paleontologist isn't really fast. 100,000 years isn't all that quick (and changes that occur a little bit at a
+time due to competition over 100,000 years could appear rapid based on the starting point while
+still being driven by each minor advantage the whole time). 
+
+The next counter is that flesh and tissue do not leave a record in the paleontological record. A fossil
+won't tell you what happened inside the brain (in the sense that minor advantages won't necessarily
+manifest physically; anyone reading this likely has intellectual advantages over the vast majority of
+your peers but is unlikely to have a gigantic elephant head that holds a bigger, stronger brain. It's
+all the same from the outside.) All paleontology can study is forms, morphology.
+
+The third challenge comes from molecular biologists who ask for the actual genes and evolutionary
+mechanism that would create this pattern.
+
+Sapolsky notes that when the last challenge was brought up in the 1980's the paleontologists didn't
+have a good, evidence-based rejoinder, but that a lot of the stuff that's happened since then has
+supported the notion of punctuated equilibrium.
+**** Non coding DNA and and instruction manual
+Next he moves onto DNA. When we look at a DNA strand, there are periods that code for genes
+interspliced with large sections (95% or so is non-coding) that function as an "instruction manual."
+The genes themselves are not always coded for in just one snippet. Often multiple areas on the DNA
+will code for parts of the same gene. So you can have a section that codes for the first third of a
+protein followed by a long stretch that has nothing to do with that protein. This is then followed by a
+section coding for the next third. And so on. Each of these sections is called an exon. The in-between
+stuff is called introns. People deduced and then discovered something called splicing enzymes. 
+
+The splicing enzymes would come along and snip out the intron section so that the first third of the
+exon connected to the middle third and the final third to produce a clear read-out. 
+
+David Baltimore was the first to introduce the concept that this makes the genes modular and opens
+the door to massive information within the DNA universe. Because of this flexibility, DNA would then
+have the potential to abandon the original A-B-C model and create, for example, an A-C combination.
+This will give you 7 different ways to combine these exons, which means there are 7 different
+proteins that can result (pacing mutations of course). 
+
+This is a massive deviation from the concept that one gene specifies one protein. Different splicing
+enzymes can thus create very different results. The more they are researched, the more flexibility
+emerges - different enzymes, splicing at different spots. So we have different items being created by
+the same basic DNA original set due to different splicing enzymes being activated and activated at
+different times of life (think Mr. Potato head as DNA and a child as the splicing enzymes - same basic
+pieces, lots of possibilities). 
+
+The instruction booklet part of DNA is all about when and under what circumstances to activate and
+start and stop creating proteins. (For example, human growth hormone is released throughout life
+but has peak periods.) For better or worse this means that DNA doesn't "know" what it's doing.
+Instead it's a read-out that's under the control of lots of other factors. Among these are the
+regulatory sequences upstream from the gene. These might be called promoter or repressive
+sequences that promote or repress the expression of DNA snippets downstream. They are like
+switches. And they are turned on when the right event (internal or external) happens. These events
+are triggered by transcription factors. These might turn on single genes or whole networks in the
+DNA. On the flipside, any given gene can have a whole bunch of different promoters that it's waiting
+to hear from before it does its thing. 
+**** Environment and transcription factor
+So who's in charge? Whoever or whatever controls those transcription factors. Including the
+environment. Which has something to do with genetic effects (shocker!)
+
+So what qualifies as environment?
+
+It could be something within the cell. For example maybe the cell
+is getting low on energy. This could release a transcription factor that would result in the cell being
+activated to take up more energy. 
+
+Or it could be something from outside the cell, such as a hormone floating around in the
+bloodstream. A hormone is a blood borne chemical messenger. Testosterone is used as an example.
+It would float far and wide and have its effects and those effects would increase significantly when
+the male hits puberty resulting in changes in lots of areas in the body. 
+
+You could have a messenger from the outside environment, such as a scary sight or an olfactory
+messenger, like a pheromone.
+
+As a consequence of this, Sapolsky notes that the most interesting stuff with DNA now is not the
+specific nature of the proteins but rather when it does its thing and what elements trigger it. 
+**** Chromatin and epigenetics
+DNA is covered, stabilized and protected by chromatin. And so there is a whole world of messengers
+that inform the chromatin of where and when to open up and allow the transcription factors
+through. Changes can also happen that will permanently impact the chromatin. For example,
+mothering styles in rats have been shown to permanently change elements in the chromatin in areas
+relating to anxiety. This leads into the field of epigenetics. Research with monkeys has shown a
+change in one area impacting 4,000 other areas!
+
+So fertilization is all about genetics while development is all about epigenetics. 
+
+So if we have a mutation in one of these splicing enzymes or transcription factors, the kind of
+changes that would result could well fit into the punctuated equilibrium (not gradual) model of
+evolution. 
