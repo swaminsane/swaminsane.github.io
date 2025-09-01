@@ -105,6 +105,36 @@ carry his or her load by being the female as often as the original fish (higher 
 Reciprocal social altruism also includes consideration for other domains of behavior, so an animal
 may be worthless in one area but valuable in another and studies have shown that social groups
 will accept and value this approach. He mentions examples of naked mole rats and lions.
+**** A behavioral analysis based on skull size
+I'm too lazy to type allthes3 notes so from here on i've used the notes from [[http://www.robertsapolskyrocks.com/][here]]
+
+|----------------------+------------------------------------+-----------------------------------|
+| Behavior             | Big Male, Small Female             | Small Male, Small Female          |
+|                      | (Tournament species)               | (Pair bondng species)             |
+|----------------------+------------------------------------+-----------------------------------|
+| Aggression           | Tournament species are more        | Pair-bonding species are less     |
+|                      | aggressive.                        | aggressive.                       |
+|----------------------+------------------------------------+-----------------------------------|
+| Variability          | TS has a high level of variability | Relatively similar levels, 1-2 on |
+| Reproductive Success | with top few having most success   | average.                          |
+|                      | 95% from 5%.                       |                                   |
+|----------------------+------------------------------------+-----------------------------------|
+| Female choice        | Good genes for offspring - big,    | Resource and parental skills.     |
+|                      | strong. Thats all she's getting    |                                   |
+|----------------------+------------------------------------+-----------------------------------|
+| Lifespan             | Lower-more fighting, aggression    | Longer, similar to females        |
+|----------------------+------------------------------------+-----------------------------------|
+| Parental behavior    | Virually none                      | A lot                             |
+|----------------------+------------------------------------+-----------------------------------|
+| Twins                | Rare                               | More common                       |
+|----------------------+------------------------------------+-----------------------------------|
+| Ababdonment          | Rare, male won't care for          | More common, males will take      |
+|                      | offspring                          | for the offspring                 |
+|----------------------+------------------------------------+-----------------------------------|
+| Examples             | Baboons, chickens, peacocks        | Marmosets, tamarins               |
+|----------------------+------------------------------------+-----------------------------------|
+
+Humans are right in the middle.
 *** Behavioral Evolution II
 Man is not the only species that kills for non-predatory reasons.
 
