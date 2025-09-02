@@ -556,3 +556,131 @@ So fertilization is all about genetics while development is all about epigenetic
 So if we have a mutation in one of these splicing enzymes or transcription factors, the kind of
 changes that would result could well fit into the punctuated equilibrium (not gradual) model of
 evolution. 
+*** II
+**** Randomness
+DNA as the big boss man is undermined as we learn that 95% of the DNA is simply the instruction manual, that transcription
+factors have huge roles especially in an if-then manner, that splicing and epigenetic effects impact
+growth, and on and on. Here he highlights ways in which things are interconnected - environment,
+genes, etc. In this area we move toward a way of thinking that seems to interest Sapolsky - the whole
+chaos theory/Heisenberg Uncertainty Principle element of life in which there's a bit of randomness
+and chance in even the most structured systems. And yet there's also a bit of structure in the
+seemingly chaotic. This just might be an important theme in evolution...
+
+As promoters change, transcription factors change. Splicing enzymes can change their behavior and
+create entirely new proteins. Changes in transcription factors can activate entirely different gene
+sequences. Little changes can have big results, especially when those changes cascade. 
+
+Vasopressin and vols (and perhaps humans). One version of the promoter stimulates release of more
+vasopressin. Correlated with this is an increase in monogamous mating. The more vasopressin, the
+more likely the vol is to be monogamous. And polygamous vols, when given vasopressin, begin
+behaving monogamously. There's some evidence that this impacts human behavior too. Sapolsky
+mentions a study that suggested that the type of vasopressin promoter you have provided some
+predictive power of the likelihood of you getting divorced down the line. Naturally there are three
+million confounds here, but it gives one pause in terms of the concept of free will.
+
+Dinorphin (pain receptor) promoters seem to relate to ease of addiction to pain killing drugs in rats.
+The more promoters that the rat has for dinorphin, the more likely that rat is to exhibit addictive
+behavior toward pain killing drugs when given the opportunity. 
+
+Changing transcription factors changes gene networks. He notes that a disproportionate share of the
+differences in the genetic code between chimps and humans lie in the genes that code for
+transcription factors. This leads to the suggestion that the most interesting evolutionary changes are
+going to be those found in changes in the regulatory structure of the genes, not in changes to the
+DNA itself. 
+
+The more genes you find in a species, the greater the percentage of those genes that code for
+transcription factors. For example you have 1 gene, A, so there's 1 transcription factor. Have two
+genes, A and B, and you now have 3 transcription factors - one for A, one for B and one for AB. And so
+on down the line.
+
+Microevolution is about the proteins; macroevolution is about the networks. 
+**** Maegaret McClintock and transposones
+She argued for transposable genes in plants, i.e. genes that are actually moving around on the DNA line, creating new proteins, networks,
+results. This amazing feature is also seen in the human immune system which adapts itself
+constantly in order to combat pathogenic invaders (and sometimes, unfortunately, to combat things
+like the insulin production cells in the Islets of Langerhorn - giving the person Type I diabetes). A
+plant can't run away from trouble, so it had to evolve another way to handle the world's difficulties.
+So they have fancy stress response tricks, such as changing genes around to handle new
+environments and challenges. 
+
+This is done by activating transposaze, which is a splicing enzyme that slices out sections of the genes
+so they can jump around. These types of genes are also seen in animals.
+**** Antigenic Variations
+Predictably, and unfortunately, pathogens also get to utilize this trick. Trypanosoma brucei is a nasty
+protazoan that causes sleeping sickness in humans. It invade the body and in order to evade the
+host's immune response, uses jumping genes to change its protein coating. So the adaptive immune
+system stays a step behind it because just as soon as it figures out how to kill the original coating, the
+trypanosoma has changed its shield. The adaptive immune system takes out pathogens in a sort of
+lock and key function, but if the pathogen changes the locks faster than the immune system can
+chisel out the keys, you're in for real trouble. 
+
+This phenomenon is known as antigenic variation. In essence the pathogen has numerous shells (for
+this parasite the estimate is in the thousands) and shuffles through them as it replicates itself. It puts
+the immune system at a distinct disadvantage. Imagine you're a detective and you can only catch
+your suspect if he's wearing the exact same outfit he had on when he committed the crime. If he has
+1 shirt, 1 pair of pants and one pair of shoes, you'll catch him immediately. If he has 1 shirt, 1 pair of
+pants and 2 shoes, it's going to take 2 days. If he has 15 shirts, 15 pairs of pants and 5 shoes, you're
+eating donuts, drinking coffee and peeing in a Mountain Dew bottle for 1,125 days. If the suspect is
+there to rob 25 liquor stores and 10 banks while you look for outfit #1, he's got a lot of time to get it
+done. 
+
+This happens elsewhere in the body. Neuroprogenitor cells can also jump around - this is neurons
+moving around, this is the cells in your body that have the most to do with determining who you are
+being the least constrained by genetic determinism. 
+**** Autoimmune Disorders 
+So a hormone has the two receptors on it - one on the hormone side to trigger it and other that
+connects to the promoter. These can be mixed and matched so that a hormone can be triggered and
+then go out and attach to an entirely new promoter. This is a new if-then clause. 
+
+Glucocorticoids are stress hormones that suppress the immune system (there's a lot more to it, but
+in brief, they suppress it by reducing the inflammatory response). A slight clip and a little shuffling
+and you can create the new if-then clause if there's progesterone around suppress immunity. What's
+this about? Pregnancy. This if-then statement prevents the immune system from attacking the fetus.
+
+The downside is that when the immune system recovers, it sometimes overshoots the original mark
+and ends up getting hyper. In its hyper state it's over-reactive and next thing you know you have an
+auto-immune disease, which is more common after pregnancy. This can be dangerous and some
+autoimmune disorders, such as lupus, are severe enough that the affected will be advised to avoid
+pregnancy. 
+**** Copy number variants
+Next up are copy number variants. This is the world of multiple copies of the same gene. This can
+allow for experimentation with one back-up copy. At the same time, there can be problems linked to
+it, such as is seen with schizophrenia. The multiple copies of genes may account for "irreducible
+complexity," i.e. how can an eye pop up out of nowhere? If the organism has multiple copies of
+sensory genes and is able to experiment with one without sacrificing the other, it could develop a
+feature incrementally, slowly growing an eye while using sound and tactile information for guidance
+until such time as the eye starts working. (This can account for evolution's production of vision while
+leaving a very big door open in regard to what's out there that we haven't evolved to see. This is the
+whole world of intuition and spiritual belief. This is the whole world of wackos that claim they can
+sense things others can't. Or is it?)
+**** Bottlenecks
+For the most part these changes will not be beneficial overall since they have to coordinate with so
+many different gene networks. Therefore it's generally a stabilizing selection in which you won't see
+much change. However, when the genes stumble onto something good, you may see a rapid
+change.
+
+Bottlenecks occur when particular traits enable a subset of the population to survive, regardless of
+the problems with their other traits. He states cheetahs went through this. Sickle cell anemia is
+another common example. 
+
+In brief, the hominid body is designed to store nutrients. These days our food is loaded with all kinds of everything. So we're seeing a huge increase
+in average body mass (folks are getting fatter) because the body is storing all the good and bad
+stuff. The more wasteful your metabolism, the better it is. Get yourself a body that isn't used to a
+western diet and you are a candidate for type II diabetes as your body grows beyond what it's
+supposed to. The fat cells get full and start ignoring insulin. Insulin gets angry and calls on the
+pancreas to make more insulin to help force the fat cells to do their job. The fat cells relent a little but
+demand ever greater amount of insulin to listen and pretty soon you've got a blood sugar problem
+and are well on your way to burning out your pancreas. 
+
+The Dutch Hunger winter is a great example of this. Due to Nazi shuffling of food, the Dutch
+experienced a winter of starvation. The women who were carrying babies gave birth to "thrifty"
+babies whose metabolisms had learned to hold tightly onto whatever nutrients floated by. Thus they
+are more at risk for all the metabolic problems in adulthood - hypertension, diabetes, excessive
+weight gain, etc. And so are their offspring since they gestated within a mother's body that was very
+thrifty and thus shared less nutrients. 
+
+Sometimes there are surprising effects from genetic variation, such as the story of the silverfox.
+**** Antibiotic Resistance
+The last fear is that of antibiotic resistance. MRSA, VRE, smallpox, our friend trypanosoma, all with a
+capacity to evolve faster than our drugs. So there's a continual battle between the cells of our body
+and the pathogens that want to crash the party. 
