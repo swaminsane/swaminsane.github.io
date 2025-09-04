@@ -684,3 +684,133 @@ Sometimes there are surprising effects from genetic variation, such as the story
 The last fear is that of antibiotic resistance. MRSA, VRE, smallpox, our friend trypanosoma, all with a
 capacity to evolve faster than our drugs. So there's a continual battle between the cells of our body
 and the pathogens that want to crash the party. 
+** Behavioral Genetics
+*** I
+**** Introduction
+In brief, this is a field in which scientists look for patterns of shared traits among individuals that have
+different levels of shared genes and infer relatedness and genetic influence from that. The basic
+notion being that if you have a behavioral trait that is more common the closer you are genetically,
+you can infer that the behavior is driven by the person's genes. Because of concerns over the
+environment's effects, the studies focus on several variants that help control for environmental
+influence. For example, comparing identical twins to fraternal twins or comparing siblings that are
+raised in different environments. Unfortunately this approach has flaws. For example, he notes that
+monozygotic twins and dizygotic twins are not treated the same; the environment is much more
+similar for monozygotic twins. The environmental differences can start early - if they split within the
+first five days after conception each will have its own placenta. If they split in the 5-10 day range,
+there is a shared placenta. This means there will be a difference in the extent to which they share the
+same bloodstream. 
+**** Gender
+He mentions a Johns Hopkins study that examined differences in math ability between boys and
+girls. The data set suggested that boys were better than girls at math, with a 13:1 ratio in the upper
+levels. However, in more equal societies, such as our friendly Scandanavians, the difference is not
+only diminished, but slightly reversed with girls scoring higher.  The lower a society's score when it
+comes to gender equality, the greater the difference between the sexes on tests of mathematical
+aptitude. 
+
+As he notes the differences in environment for 13 year old boys and girls, it's easy to see that his
+viewpoint is that this field is, at the very least, difficult to prove scientifically and, more realistically,
+ludicrous. Simply put, people don't ever share the same environment. There are thousands of
+different experiences that shape us and influence how we handle situations. 
+**** Adoption
+To correct for this, adoption studies are used. Here siblings with similar genes that are raised in
+different environments are compared. The thinking is relatively straightforward - if these siblings are
+more like each other than they are like the siblings in their adoptive homes, genes are playing a role.
+
+A big study on schizophrenia based on Danish citizens shows genetic influence in the development of
+schizophrenia. Using adoption studies and statistical measures, they found a 1% chance of being
+schizophrenic among the population on the whole, but with no biological basis while being raised in
+a schizophrenic household the number goes up to 3%. When raised in a household that did not have
+a schizophrenic parent but in which the biological parent(s) do, the number jumps to 9%. And for the
+truly bizarre situation in which the kid had a genetic legacy of schizophrenia and managed to get
+adopted into a household with a schizophrenic adoptive parent, the rate goes all the way to 17%. He
+notes that this synergistic effect will come up again. Sapolsky also states that this study was the first
+time a genetic basis was shown for a psychological disorder. As such it's a landmark event because a
+genetic psychological problem is a medical problem, not just a mere adjustment to society issue. 
+***** Problems
+1. Under the cleanest circumstances the baby would have been whisked away seconds after birth,
+thus preventing any shared environment with the mother. However, this is not often the case.
+
+2. Prenatal effects - the prenatal environment shared with mom, including levels of various
+hormones in the bloodstream.
+
+To get around this (perhaps speciously) the argument is made that they can measure the frequency
+with whch the trait is shared with the mother or father. If there's a 17% correlation with the mom but
+only 10% with the father, then the 7% difference is attributed to the prenatal effects. 
+
+3. Adoptive family placements are not random. Efforts are made to place the child in a similar type of
+home. Thus the adoptee shares a lot of biology with the new family, screwing up the notion that
+environmnt and genetics have been separated. 
+**** Prenatal Effect
+The new gold standard study model is the identical twins separated at birth model. From this group,
+the research suggests about 50% heritability of IQ, about 50% heritability of where you are on the
+introversion-extroversion scale, and about 50% heritability for degree of aggression. 
+
+Anxiety levels as an adult can be impacted by the prenatal environment (in rats). The more stressed
+the mother, the higher the glucocorticoid levels in the bloodstream, resulting in a smaller brain,
+thinner cortex, more glucocorticoid receptors, fewer benzodiazepine receptors, more of a decline in
+cognitive ability as you age and a harder time bouncing back from stress - meaning more cumulative
+exposure to glucocorticoids and therefore more damage. This can be referred to as non-Mendelian
+inheritance of traits since the thinking is that it's not a genetic thing. 
+
+Holland 1944 and the Dutch Hunger Winter. The Nazis divert all the food in Holland to Germany. The
+Dutch diet thus goes from normal to starvation level. 3rd trimester fetuses develop super thrifty
+metabolisms due to nutrient deficiency and thus become much more likely (19 fold increase in risk)
+to develop metabolic diseases such as diabetes, obesity, high blood pressure, etc. because their
+bodies keep a greater than normal percentage of nutrients - sugar, sodium, fat - all stored. They in
+turn have offspring who are at a greater risk because the mothers' thrifty metabolisms don't share as
+freely with their offspring. 
+
+Mitochondria, the powerhouse of the cell, have their own DNA and along with other junk in the cell
+split somewhat randomly during gamete formation. Mitochondria only come from the mother's side.
+
+Indirect genetic traits. Judith Rich Harris and The Nurture Assumption. Here the question is to what
+extent the environment acts on genetic traits in order to reify them. To wit, where you are on the
+extroversion/introversion scale is as much a result of how the world interacts with you as it is your
+genes. Thinking in terms of a good looking baby and an ugly baby - both have extrovert genes but
+only one of them gets a lot of smiles back in response to extroverted behavior. Other genetic factors
+will mediate the impact of the gene in question as well the world at large. 
+
+***** Fetal Origins of Adult Disease (FOAD). 
+
+Interestingly, the poor Russians at Stalingrad did not demonstrate a similar pattern because their
+starvation went on much longer and showed a pattern of slow but steady decrease followed by a slow
+rise. Incidentally, Antony Beevor's Stalingrad is an excellent book.
+
+A study with transplanted rat fetuses demonstrated that the fetus took on the characteristics of the
+placental mom - when she was high anxiety, the rat was high anxiety, regardless of the genes of the
+true mom.
+**** ...
+Continuing with the example, he points out that height is a heritable trait to a significant extent and
+that endless studies have shown that taller people are treated better and considered more
+attractive, "comma, he says bitterly."
+
+Not surprisingly, people who are treated better during the developmental periods end up being
+more extroverted. Thus with have heritability of a trait that in turn causes you to be treated
+differently in the world which brings about changes in personality. Again, the genes are having a
+hard time winning out on their own. 
+
+The pecking order - you inherit the color and iridescence of your feathers. Get bad feathers, you get
+pecked at more often and head to the bottom of the social ladder. 
+
+Studies have suggested 70% heritability of political preferences in the US. However, this is actually
+mediated by personal characteristics, especially comfort with ambiguity. Conservatives tend to not
+like ambiguity, preferring black and white analyses of situations. He then transitions into the
+Kohlberg scale of moral development and the notion that there's a theory that tries to link up
+political preferences with one's stage of moral development.  In both examples, conservatives end up
+looking pretty bad - simplistic worldview and under-developed morals. This is one area where
+Professor Sapolsky may be presenting a biased view. While your author agrees with him in many
+ways, the conservative viewpoint has its nuances and there are issues for which adding in ambiguity
+may be possible but not necessarily smart (crime, for example, which endless studies have shown is
+significantly impacted by SES and all kinds of developmental elements - yet and still, there's still a
+crime that's been committed and the why doesn't undo it - is ambiguity correct here? I'm not taking a
+stance, but am noting that it's an area of ethical debate in which ambiguity isn't necessarily the
+winner). 
+
+Curiously, studies showing heritability of aggression in rats actually have an underlying mediating
+factor - pain sensitivity. The more aggressive rats are less able to tolerate pain and thus more likely
+to lash out aggressively when they feel it. Again, the surface behavior is not the one that's being
+passed along. 
+
+Mothering styles of rats impact the robustness of the rat as an adult. Better mothering leads to a
+healthier rat that's likely to be a good mother when grown. This is accomplished through epigenetic
+changes in transcription factors. 
