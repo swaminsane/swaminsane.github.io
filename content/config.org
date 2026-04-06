@@ -1,3 +1,15 @@
+#+title: Config
+#+author: Swami Vivekanand
+
+#+begin_export html
+<p class="author">Swami Vivekanand <br> April 2026</p>
+<div class="abstract">
+  <h2>Abstract</h2>
+  <p>My Emacs config</p>
+</div>
+#+end_export
+
+
 * dashboard
 #+begin_src emacs-lisp
       (use-package dashboard
