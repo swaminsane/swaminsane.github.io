@@ -31,11 +31,19 @@
              :base-directory "./content"
              :publishing-directory "./public"
              :publishing-function 'org-html-publish-to-html
-	     :with-author nil          
-	     :with-creator t          
-	     :with-toc t                
-	     :section-numbers nil      
-	     :time-stamp-file nil)))  
+             :with-author nil          
+             :with-creator t          
+             :with-toc t                
+             :section-numbers nil      
+             :time-stamp-file nil)
+       (list "my-org-static"
+             :base-directory "./static"
+             :base-extension "css\\|js\\|png\\|jpg\\|gif\\|svg"
+             :publishing-directory "./public"
+             :publishing-function 'org-publish-attachment
+             :recursive t)
+       (list "my-org-all"
+             :components '("my-org-site" "my-org-static"))))
 ;; Generate the site output
 (org-publish-all t)
 
