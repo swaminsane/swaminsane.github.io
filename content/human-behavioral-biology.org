@@ -1,3 +1,12 @@
+#+title: Human Behavioral Biology 
+#+begin_export html
+<p class="author">Swami Vivekanand <br> April 2026</p>
+<div class="abstract">
+  <h2>Abstract</h2>
+  <p>These are my notes on Robert Sapolsky lectures on Human Behavioral Biology. I,ve not written it completely and i've mentioned
+  from what point i just yanked the notes and from where. Do check out this course though, its godsent!</p>
+</div>
+#+end_export
 * Notes
 [[https://youtu.be/NNnIGh9g6fA?si=iyQXAILtbjMrlNyk][lecture]]
 - Sometimes, whatever going on in your body affects what happens in your head

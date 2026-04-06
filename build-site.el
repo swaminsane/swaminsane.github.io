@@ -22,7 +22,10 @@
       org-html-head-include-scripts nil       ;; Use our own scripts
       org-html-head-include-default-style nil ;; Use our own styles
 ;;      org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />")
-      org-html-head "<link rel=\"stylesheet\" href=\"./style.css\" />")
+org-html-head "<link rel=\"stylesheet\" href=\"./style.css\" />
+<link rel=\"stylesheet\" href=\"./prism/prism.css\" />
+<script src=\"./prism/prism.js\"></script>")
+
 ;; Define the publishing project
 (setq org-publish-project-alist
       (list
@@ -33,7 +36,7 @@
              :publishing-function 'org-html-publish-to-html
              :with-author nil          
              :with-creator t          
-             :with-toc t                
+             :with-toc nil                
              :section-numbers nil      
              :time-stamp-file nil)
        (list "my-org-static"

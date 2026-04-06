@@ -1,27 +1,14 @@
-#+title: my org site
+#+title: SIiTe
+#+author: Swami Vivekanand
+
+#+begin_export html
+<p class="author">Swami Vivekanand <br> April 2026</p>
+<div class="abstract">
+  <h2>Abstract</h2>
+  <p>Yeah so this is my hobby project (or just a mind dump idk)</p>
+</div>
+#+end_export
 
 * Hellew
-
-my [[./config.org][config]]
-
- [[./newpage.org][hola]]
-
-* Let's write smthing now, shall we
-
-Well not today
-
-* What to even write
-** Play slay the princess whoever is reading
-** SILKSONG cominggggg
-
-* New push, planning to make my next month productive
-
-
-
-
-Let's see how it goes
-
-* My [[./human-behavioral-biology.org][notes]] on Human Behavioral Biology by Robert Sapolsky
-
-
-* heiiiii new [[./trial.org][trial]] page
+** My [[./config.org][config]]
+** My [[./human-behavioral-biology.org][notes]] on Human Behavioral Biology by Robert Sapolsky
