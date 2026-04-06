@@ -1,0 +1,18 @@
+#+title: Random
+#+author: Swami Vivekanand
+
+#+begin_export html
+<p class="author">Swami Vivekanand <br> April 2026</p>
+<div class="abstract">
+  <h2>Abstract</h2>
+  <p>Anything i want to test or just put</p>
+</div>
+#+end_export
+
+* Math with MathJax
+
+\(y = x^2\)
+
+\[
+\frac{d}{dx}\left(\int_a^x f(t)\,dt\right) = f(x)
+\]

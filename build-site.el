@@ -24,6 +24,7 @@
 ;;      org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />")
 org-html-head "<link rel=\"stylesheet\" href=\"./style.css\" />
 <link rel=\"stylesheet\" href=\"./prism/prism.css\" />
+<script id=\"MathJax-script\" async src=\"https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js\"></script>
 <script src=\"./prism/prism.js\"></script>")
 
 ;; Define the publishing project

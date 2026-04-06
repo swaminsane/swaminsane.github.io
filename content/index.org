@@ -12,3 +12,5 @@
 * Hellew
 ** My [[./config.org][config]]
 ** My [[./human-behavioral-biology.org][notes]] on Human Behavioral Biology by Robert Sapolsky
+** [[./random.org][Random]] stuff here
+
