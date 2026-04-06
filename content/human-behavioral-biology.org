@@ -3,7 +3,7 @@
 <p class="author">Swami Vivekanand <br> April 2026</p>
 <div class="abstract">
   <h2>Abstract</h2>
-  <p>These are my notes on Robert Sapolsky lectures on Human Behavioral Biology. I,ve not written it completely and i've mentioned
+  <p>These are my notes on Robert Sapolsky lectures on Human Behavioral Biology. I've not written it completely and i've mentioned
   from what point i just yanked the notes and from where. Do check out this course though, its godsent!</p>
 </div>
 #+end_export
@@ -115,7 +115,12 @@ Reciprocal social altruism also includes consideration for other domains of beha
 may be worthless in one area but valuable in another and studies have shown that social groups
 will accept and value this approach. He mentions examples of naked mole rats and lions.
 **** A behavioral analysis based on skull size
-I'm too lazy to type allthes3 notes so from here on i've used the notes from [[http://www.robertsapolskyrocks.com/][here]]
+#+begin_export html
+<label for="sn-1" class="sidenote-toggle sidenote-number"></label>
+<input type="checkbox" id="sn-1" class="sidenote-toggle" />
+<span class="sidenote">
+I'm too lazy to type allthes3 notes so from here on i've used the notes from <a target="_blank" href="http://www.robertsapolskyrocks.com/">here</a></span>
+#+end_export
 
 |----------------------+------------------------------------+-----------------------------------|
 | Behavior             | Big Male, Small Female             | Small Male, Small Female          |
