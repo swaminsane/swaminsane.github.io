@@ -16,3 +16,38 @@
 \[
 \frac{d}{dx}\left(\int_a^x f(t)\,dt\right) = f(x)
 \]
+
+* A python code block
+
+#+BEGIN_SRC python
+name = input("Who dis? ")
+print("Wassup", name)
+print("Celcius to Kelvin and Farenheit")
+celciusinput = input("Degree celcius? ")
+try:
+    celcius = int(celciusinput)
+    kelvin = celcius + 273.15
+    farenheit = celcius * 1.8 + 32
+    print(celcius, "Degree Celcius", "=", kelvin, "Kelvin")
+    print(celcius, "Degree Celcius", "=", farenheit, "Farenheit")
+    if celcius < 5:
+        print("Sheeesh, that`s so cold", name, "!")
+    if celcius > 50:
+        print("You wanna burn urself or whut", name, "!")
+        if celcius == 69:
+            print("NICE")
+except:
+    print(
+        "Since when did",
+        celciusinput,
+        "become temperature nigga! Write the digits",
+        name,
+    )
+#+END_SRC
+
+* A quote
+
+  #+BEGIN_QUOTE
+  He who writes most meaningless thing shall fill this quote box.
+  #+END_QUOTE
+  
